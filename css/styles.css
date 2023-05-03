@@ -130,3 +130,29 @@ ul {
   text-align: center;
   font-size: .8rem;
 }
+
+.quote-section {
+  background-color: #e5f5f9;
+  padding: 6rem 0 5rem;
+  margin-bottom: 5rem;
+}
+
+.quote-section div {
+  margin: 0 auto;
+  max-width: 600px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote-section p {
+  font-size: 1.8rem;
+  font-style: italic;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.quote-section span {
+  align-self: flex-end;
+  font-weight: 700;
+}
