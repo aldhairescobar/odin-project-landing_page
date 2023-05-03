@@ -1,1 +1,7 @@
-# odin-project-landing_page
+## Odin Project Landing Page
+
+Practiced:
+
+- Flexbox
+- max-width containers
+- Object-fit property
